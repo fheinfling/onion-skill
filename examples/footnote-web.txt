@@ -1,0 +1,21 @@
+The footnote web
+
+If you're in content, times are tough, at least on one side of the web.
+
+The better side (for creators/publishers) is the feed. Content comes to you directly, picked for your attention. You engage & you come back. To procrastinate, to relieve stress, to learn or to enjoy yourself.
+
+The other side is what I call the footnote web. It's what's left when you work with agents: they process content for you, and what reaches you is a distilled answer (with a footnote). The content is still there, just one step further away, and humans will be involved less and less over time.
+
+Professionally, I live mostly in the second one (and honestly try to avoid the first as much as I can). I'm a builder at heart, and like many of you, I'm handling major chunks of my work with agents now.
+
+If you're a bit older, you remember clicking through web directories like yellow pages. Then Google put things in order of relevance (ideally). If you were around when Wikipedia started, you remember the debate whether you can cite it. The answer that stuck: follow the footnote, or leave it.
+
+Agents are the next layer, and the biggest one yet. They rank, summarize, distill and analyze.
+
+For now, you might still be the one who checks the footnotes yourself.
+
+In November 2026, Levent Alpöge from Anthropic says he and Claude might have proven the Riemann hypothesis. The proof is, to put it mildly, verbose (millions of lines of code); the AI's informal write-up would run past 250,000 pages. Can we really follow that manually? Hardly. Mathematicians check whether the statement says what we think it says, and wait for the distillation: the human-friendly edit.
+
+That's what we're (exponentially) moving towards. Agents checking agents, and the footnote turning from something you read into an audit trail.
+
+If you publish anything, that means two jobs (not either/or). Be the original that ends up in the footnote (monetizing this will be a gamble). And be the habit people come back to in the feed. A footnote alone is easy to overlook, and stronger models will absorb what isn't worth citing. Or eventually become the source for the footnote themselves.
