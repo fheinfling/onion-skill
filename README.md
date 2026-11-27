@@ -1,5 +1,9 @@
 # Onion
 
+<p align="center"><img src="assets/onion-feed.gif" width="480" alt="Animation of a phone feed: each post shows one sentence first; tapping opens key facts, points, details and the full text, while the core stays on top."></p>
+
+<p align="center"><em>The idea as a feed (a concept mock-up). The skill brings the same layers to Claude, today.</em></p>
+
 A Claude skill that summarizes any text in layers, from core to full text:
 
 | Layer | Reading time |
